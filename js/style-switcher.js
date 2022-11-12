@@ -19,6 +19,9 @@ function setActiveStyle(color) {
         }
         else {
             style.setAttribute("disabled", "true");
+            setTimeout(() => {
+                document.querySelector(".style-switcher").classList.remove("open");
+            }, 1000);
         }
     })
 }
