@@ -847,7 +847,7 @@ h3.my-profession {
 
 @media (max-width:1199px) {
     .aside {
-        left: -270px;
+        left: -280px;
     }
     .aside.open{
         left: 0;
