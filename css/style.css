@@ -957,3 +957,15 @@ h3.my-profession {
         max-width: 70%;
     }
 }
+@media (max-width:420px) {
+.style-switcher{
+    top:70px !important;
+}
+    .aside{
+        width:100%;
+        padding:0:
+    }
+    .aside .nav-toggler {
+        left: 344px !important;
+    }
+}    
