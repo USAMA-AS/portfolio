@@ -876,6 +876,9 @@ h3.my-profession {
         right: -5px;
         bottom: -40px;
     }
+    .style-switcher{
+        top:19px
+    }
 }
 
 @media (max-width:950px) {
