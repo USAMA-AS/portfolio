@@ -648,7 +648,8 @@ h3.my-profession {
     margin-bottom: 30px;
     flex: 0 0 30.33%;
     max-width: 30.33%;
-    
+    height: 260px;
+    overflow: hidden;
 }
 
 .portfolio .portfolio-item-inner {
@@ -656,6 +657,7 @@ h3.my-profession {
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
+    height:240px;
 }
 
 .portfolio .portfolio-item-inner .portfolio-img img {
