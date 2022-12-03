@@ -436,7 +436,7 @@ h3.my-profession {
 }
 
 .about .about-content .skills .skill-item {
-    flex: 0 0 100%;
+    flex: 0 0 97%;
     max-width: 100%;
 }
 
@@ -500,6 +500,7 @@ h3.my-profession {
 .about .about-content .timeline {
     background-color: var(--bg-black-100);
     padding: 30px 15px;
+    padding-left:8px;
     border: 1px solid var(--bg-black-50);
     border-radius: 10px;
     width: 100%;
@@ -508,7 +509,7 @@ h3.my-profession {
 
 .about .about-content .timeline .timeline-item {
     position: relative;
-    padding-left: 37px;
+    padding-left: 20px;
     padding-bottom: 50px;
 }
 
