@@ -397,7 +397,7 @@ h3.my-profession {
 
 .about .about-content .personal-info {
     flex: 0 0 47%;
-    max-width: 40%;
+    max-width: 50%;
     margin-top: 40px;
 }
 
@@ -429,8 +429,8 @@ h3.my-profession {
 }
 
 .about .about-content .skills {
-    flex: 0 0 34.8%;
-    max-width: 40%;
+    flex: 0 0 47%;
+    max-width: 50%;
     margin-top: 40px;
 }
 
@@ -809,7 +809,12 @@ h3.my-profession {
         flex: 0 0 100%;
         max-width: 90%;
     }
-
+    .about .about-content .personal-info {
+    flex: 0 0 47%;
+    max-width: 40%;
+    margin-top: 40px;
+    }
+    
     .about .about-content .skills {
         flex: 0 0 47%;
         max-width: 40%;
