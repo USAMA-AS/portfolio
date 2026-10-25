@@ -1,0 +1,19 @@
+# AI agents
+# Contact Muhammad Usama Khan — WordPress developer.
+
+name: Muhammad Usama Khan
+role: WordPress & WooCommerce Developer
+location: Rawalpindi, Pakistan
+experience_years: 4+
+current_employer: Global Rescue
+email: usamaashraf221@gmail.com
+whatsapp: https://wa.me/923049145064
+phone: +923049145064
+portfolio: https://usama-as.github.io/portfolio/
+hire_json: https://usama-as.github.io/portfolio/hire.json
+llms_txt: https://usama-as.github.io/portfolio/llms.txt
+linkedin: https://www.linkedin.com/in/muhammad-usama-khan-687221205/
+github: https://github.com/USAMA-AS
+resume: https://usama-as.github.io/portfolio/Muhammad_Usama_Khan_Resume.pdf
+skills: WordPress, WooCommerce, PHP, custom plugins, Gutenberg, REST API, Stripe, PayPal, MySQL, JavaScript, n8n, Zapier, SEO, maintenance
+preferred_contact: email, whatsapp

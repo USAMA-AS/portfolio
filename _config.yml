@@ -1,0 +1,17 @@
+title: Muhammad Usama Khan — WordPress Developer
+description: Muhammad Usama Khan — WordPress, WooCommerce, custom plugins, Gutenberg, APIs, and automation.
+url: "https://usama-as.github.io"
+baseurl: "/portfolio"
+plugins: []
+include:
+  - robots.txt
+  - sitemap.xml
+  - llms.txt
+  - ai.txt
+  - hire.json
+  - indexnow-key.txt
+  - google863055957d435fca.html
+exclude:
+  - README.md
+  - LICENSE
+  - .indexnow-key

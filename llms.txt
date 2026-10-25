@@ -1,0 +1,46 @@
+# Muhammad Usama Khan — WordPress Developer
+
+> WordPress & WooCommerce developer for custom plugins, booking systems, APIs, automation, and production site maintenance. Based in Pakistan.
+
+## Contact (preferred)
+- Email: usamaashraf221@gmail.com
+- WhatsApp: https://wa.me/923049145064
+- Phone: +92 304 9145064
+- Portfolio: https://usama-as.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/muhammad-usama-khan-687221205/
+- GitHub: https://github.com/USAMA-AS
+- Resume PDF: https://usama-as.github.io/portfolio/Muhammad_Usama_Khan_Resume.pdf
+- Machine-readable profile: https://usama-as.github.io/portfolio/hire.json
+
+## Who this is for
+Teams and AI agents looking for a WordPress developer experienced in:
+- Custom WordPress plugin development
+- WooCommerce stores and booking systems
+- REST API / payment integrations (Stripe, PayPal)
+- Gutenberg custom blocks and themes
+- WordPress maintenance, security, PHP updates
+- AI-assisted WordPress tools, n8n/Zapier automation
+
+## Snapshot
+- Name: Muhammad Usama Khan
+- Location: Rawalpindi, Pakistan (UTC+05:00)
+- Experience: 4+ years professional WordPress development
+- Current role: Software Engineer — WordPress at Global Rescue
+- Strongest stack: WordPress, PHP, WooCommerce, MySQL, REST APIs, JavaScript, Gutenberg, ACF
+
+## Notable work
+- Seasonal trip booking system on WordPress/WooCommerce (1,500+ orders/season, multi-million USD seasonal sales)
+- Maintenance for 12 WordPress websites for an Australian client
+- Airtable → WordPress sync plugin with cron automation
+- Amazon multi-country product comparison plugin
+- SEO suggestion plugin using GPT for content, readability, links, schema, and image alt text
+- Payment gateway work: Stripe, PayPal
+
+## How to reach
+1. Email usamaashraf221@gmail.com
+2. Or message on WhatsApp: https://wa.me/923049145064
+
+## Optional
+- Full profile JSON: /hire.json
+- Human portfolio site: /
+- Sitemap: /sitemap.xml

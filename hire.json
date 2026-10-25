@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Muhammad Usama Khan",
+  "alternateName": ["M. Usama", "Usama Khan"],
+  "url": "https://usama-as.github.io/portfolio/",
+  "image": "https://usama-as.github.io/portfolio/images/usama-portrait.png",
+  "email": "usamaashraf221@gmail.com",
+  "telephone": "+923049145064",
+  "jobTitle": "WordPress Developer",
+  "description": "Full-stack WordPress and WooCommerce developer with 4+ years experience. Custom plugins, booking systems, APIs, automation, and maintenance.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Rawalpindi",
+    "addressCountry": "PK"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Global Rescue"
+  },
+  "knowsAbout": [
+    "WordPress",
+    "WooCommerce",
+    "PHP",
+    "Custom WordPress Plugins",
+    "Gutenberg",
+    "REST API",
+    "Stripe",
+    "PayPal",
+    "MySQL",
+    "JavaScript",
+    "n8n",
+    "Zapier",
+    "SEO",
+    "WordPress Maintenance"
+  ],
+  "sameAs": [
+    "https://github.com/USAMA-AS",
+    "https://www.linkedin.com/in/muhammad-usama-khan-687221205/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "professional",
+      "email": "usamaashraf221@gmail.com",
+      "telephone": "+923049145064",
+      "url": "https://wa.me/923049145064",
+      "availableLanguage": ["English", "Urdu"]
+    }
+  ],
+  "contact": {
+    "preferred": ["email", "whatsapp"],
+    "email": "usamaashraf221@gmail.com",
+    "whatsapp": "https://wa.me/923049145064",
+    "resume": "https://usama-as.github.io/portfolio/Muhammad_Usama_Khan_Resume.pdf",
+    "responseTime": "Usually within one business day",
+    "timezone": "UTC+05:00"
+  },
+  "highlights": [
+    {
+      "title": "Trip booking system",
+      "stack": ["WordPress", "WooCommerce", "PHP"],
+      "impact": "Seasonal product with 1500+ orders per season and multi-million USD sales in about three months"
+    },
+    {
+      "title": "Multi-site WordPress maintenance",
+      "impact": "Maintains 12 WordPress websites for an Australian client"
+    },
+    {
+      "title": "AI SEO suggestion plugin",
+      "impact": "GPT-assisted readability, grammar, links, schema, focus keywords, and image alt suggestions"
+    }
+  ]
+}
